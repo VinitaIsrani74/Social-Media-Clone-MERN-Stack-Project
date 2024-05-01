@@ -1,4 +1,6 @@
 
+https://github.com/VinitaIsrani74/Social-Media-Clone-MERN-Stack-Project/assets/138797388/52bd5525-e064-4357-bcad-7a21f8afa8a5
+
 # Social-Media-Clone (MERN Stack Project)
 
 My MERN stack project - a fully functional social media clone. Leveraging the power of MongoDB, Express.js, React.js, and Node.js, this project embodies seamless communication between frontend and backend.
